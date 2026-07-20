@@ -522,17 +522,17 @@
 445,Xã Phú Minh,34,Huyện Sóc Sơn,2,Hà Nội,NO,NO1,Trần Quang Tùng,Việt Nam,016,01,Sóc Sơn,Hà Nội,21.2819,105.8290915,00445,Phú Minh,21.200025,105.817084
 448,Xã Phù Lỗ,34,Huyện Sóc Sơn,2,Hà Nội,NO,NO1,Trần Quang Tùng,Việt Nam,016,01,Sóc Sơn,Hà Nội,21.2819,105.8290915,00448,Phù Lỗ,21.201021,105.849109
 451,Xã Xuân Thu,34,Huyện Sóc Sơn,2,Hà Nội,NO,NO1,Trần Quang Tùng,Việt Nam,016,01,Sóc Sơn,Hà Nội,21.2819,105.8290915,00451,Xuân Thu,21.195247,105.896183
-29563,Xã Tân Ngãi,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long,Vĩnh Long,10.2513,105.9407659,29563,Tân Ngãi,10.261566,105.922045
-29566,Xã Tân Hòa,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long,Vĩnh Long,10.2513,105.9407659,29566,Tân Hòa,10.253385,105.907408
-29569,Xã Tân Hội,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long,Vĩnh Long,10.2513,105.9407659,29569,Tân Hội,10.259929,105.891684
-29572,Xã Trường An,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long,Vĩnh Long,10.2513,105.9407659,29572,Trường An,10.255742,105.93374
-29542,Phường 9,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long,Vĩnh Long,10.2513,105.9407659,29542,09,10.253027,105.949281
-29545,Phường 5,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long,Vĩnh Long,10.2513,105.9407659,29545,05,10.254333,105.98625
-29548,Phường 1,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long,Vĩnh Long,10.2513,105.9407659,29548,01,10.254523,105.972313
-29551,Phường 2,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long,Vĩnh Long,10.2513,105.9407659,29551,02,10.250117,105.962836
-29554,Phường 4,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long,Vĩnh Long,10.2513,105.9407659,29554,04,10.239731,105.98292
-29557,Phường 3,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long,Vĩnh Long,10.2513,105.9407659,29557,03,10.238036,105.969536
-29560,Phường 8,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long,Vĩnh Long,10.2513,105.9407659,29560,08,10.234581,105.951938
+29563,Xã Tân Ngãi,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long (Thành phố),Vĩnh Long,10.2513,105.9407659,29563,Tân Ngãi,10.261566,105.922045
+29566,Xã Tân Hòa,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long (Thành phố),Vĩnh Long,10.2513,105.9407659,29566,Tân Hòa,10.253385,105.907408
+29569,Xã Tân Hội,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long (Thành phố),Vĩnh Long,10.2513,105.9407659,29569,Tân Hội,10.259929,105.891684
+29572,Xã Trường An,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long (Thành phố),Vĩnh Long,10.2513,105.9407659,29572,Trường An,10.255742,105.93374
+29542,Phường 9,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long (Thành phố),Vĩnh Long,10.2513,105.9407659,29542,09,10.253027,105.949281
+29545,Phường 5,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long (Thành phố),Vĩnh Long,10.2513,105.9407659,29545,05,10.254333,105.98625
+29548,Phường 1,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long (Thành phố),Vĩnh Long,10.2513,105.9407659,29548,01,10.254523,105.972313
+29551,Phường 2,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long (Thành phố),Vĩnh Long,10.2513,105.9407659,29551,02,10.250117,105.962836
+29554,Phường 4,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long (Thành phố),Vĩnh Long,10.2513,105.9407659,29554,04,10.239731,105.98292
+29557,Phường 3,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long (Thành phố),Vĩnh Long,10.2513,105.9407659,29557,03,10.238036,105.969536
+29560,Phường 8,35,Thành phố Vĩnh Long,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,855,86,Vĩnh Long (Thành phố),Vĩnh Long,10.2513,105.9407659,29560,08,10.234581,105.951938
 29575,Thị trấn Long Hồ,36,Huyện Long Hồ,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,857,86,Long Hồ,Vĩnh Long,10.23255,106.0084866,29575,Long Hồ,10.197223,106.008698
 29578,Xã Đồng Phú,36,Huyện Long Hồ,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,857,86,Long Hồ,Vĩnh Long,10.23255,106.0084866,29578,Đồng Phú,10.309999,105.98797
 29581,Xã Bình Hòa Phước,36,Huyện Long Hồ,60,Vĩnh Long,MK,MK,Nguyễn Thế Anh,Việt Nam,857,86,Long Hồ,Vĩnh Long,10.23255,106.0084866,29581,Bình Hòa Phước,10.278589,106.01767
